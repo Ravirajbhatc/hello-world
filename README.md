@@ -2,4 +2,4 @@
 Hello world repository
 =======================
 
-Github account for udacity nanodegree ..
+Github account created for udacity nanodegree ..
